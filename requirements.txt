@@ -1,0 +1,10 @@
+# Python 3.12 — versions de l'environnement local du projet.
+numpy==2.4.3
+scipy==1.17.1
+matplotlib==3.10.8
+qiskit==2.3.1
+qiskit-aer==0.17.2
+qiskit-algorithms==0.4.0
+# Affichage des circuits et execution des notebooks.
+pylatexenc==2.10
+ipykernel==7.2.0

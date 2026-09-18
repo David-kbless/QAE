@@ -1,0 +1,13 @@
+# Environnements Python locaux
+.venv/
+venv/
+
+# Fichiers generes par Python et Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Fichiers du systeme
+.DS_Store
+Thumbs.db
